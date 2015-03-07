@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1425525841 source:/home/cct3000/C_PlusPlus/Maya/BOOK/BOOK/main.cpp
+	<iostream>
+	<stdio.h>
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+	<algorithm>
+	<cctype>
+	<fstream>
+	"books.h"
+	"BooksArray.h"
+
+1425287099 /home/cct3000/C_PlusPlus/Maya/BOOK/BOOK/include/books.h
+	<iostream>
+
+1425286876 source:/home/cct3000/C_PlusPlus/Maya/BOOK/BOOK/src/books.cpp
+	<iostream>
+	"books.h"
+
+1425288903 source:/home/cct3000/C_PlusPlus/Maya/BOOK/BOOK/src/BooksArray.cpp
+	<iostream>
+	"BooksArray.h"
+
+1425285688 /home/cct3000/C_PlusPlus/Maya/BOOK/BOOK/include/BooksArray.h
+	<iostream>
+
